@@ -1,13 +1,13 @@
 [
   {
-    "name" : "Chat Logger for CeVIO",
+    "name" : "Chat Logger for TTS",
     "file" : "chatlogger",
     "extension" : "ipf",
-    "fileVersion" : "v1.0.0",
+    "fileVersion" : "v1.0.1",
     "releaseTag" : "chatlogger",
-    "unicode" : "🐱",
-    "updateInfo": "v1.0.0 初回リリース。CeVIO連携用ログ出力機能を実装。",
-    "description" : "チャットログを外部ツール（CeVIO等）で利用しやすい形式で出力します。",
-    "tags" : ["chat", "utility"]
+    "unicode" : "★",
+    "updateInfo": "v1.0.1 説明文の更新と汎用化。dataフォルダへのログ生成を追記。",
+    "description" : "チャットログをTTS（読み上げ）等の外部ツールで利用しやすい形式で、ゲーム内のdataフォルダに出力します。※TTS環境は別途用意が必要です。CeVIO AIを利用した連携サンプルが haasaka-tos/ceviolink-plugin で公開されています。",
+    "tags" : ["chat", "utility", "tts"]
   }
 ]
