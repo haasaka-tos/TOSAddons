@@ -1,0 +1,13 @@
+[
+  {
+    "name" : "Chat Logger for CeVIO",
+    "file" : "chatlogger",
+    "extension" : "ipf",
+    "fileVersion" : "v1.0.0",
+    "releaseTag" : "chatlogger",
+    "unicode" : "🐱",
+    "updateInfo": "v1.0.0 初回リリース。CeVIO連携用ログ出力機能を実装。",
+    "description" : "チャットログを外部ツール（CeVIO等）で利用しやすい形式で出力します。",
+    "tags" : ["chat", "utility"]
+  }
+]
